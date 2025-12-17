@@ -1,0 +1,2 @@
+So this is a file about Ninjas and their ways.
+No it is not a file about ninjas just a file to practice my git skills.
